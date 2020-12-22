@@ -1,0 +1,3 @@
+Para correr el la base de datos, importar en phpmyadmin
+se utilizo xapp por lo cual colocar la carpeta WebViewPhp en htdocs 
+dentro la aplicacion android cambiar la ip de la maquina local
