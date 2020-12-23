@@ -7,6 +7,7 @@
     <?php
         session_start();
         $GLOBALS['ayuda'] = "";
+        error_reporting(0);
        
     ?>
 
